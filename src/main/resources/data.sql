@@ -1,0 +1,3 @@
+/*INSERT INTO product (name ,description  , brand , price , category , available ,release_date, stockQuantity ) VALUES ('Harrier' , 'A compact SUV', 'TATA', 750000.00 , 'cars', true ,'2024-03-01', 20),('Thar' , 'A compact SUV', 'Mahindra', 500000.00 , 'cars', true ,'2024-03-01', 10),
+('Creta' , 'A compact SUV', 'Hundai', 600000.00 , 'cars', true , '2024-03-01',23),('fortuner' , 'A compact SUV', 'toyota', 900000.00 , 'cars', true ,'2024-03-01', 5);
+*/
